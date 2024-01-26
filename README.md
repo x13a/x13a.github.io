@@ -1,7 +1,5 @@
-> lucky is chilling
-
 <img
     height=""
-    src="static/loveyouStepan.jpeg">
+    src="static/cats.png">
 
 With ❤️
